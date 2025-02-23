@@ -1,4 +1,5 @@
 #Team Members & Roles
+
 At this stage, the roles within the team are flexible and may be adjusted based on individual strengths and project needs. The following assignments serve as an initial structure:
 
 Team Lead (Project Manager): Osay E.
